@@ -86,4 +86,4 @@ If you encounter an issue with the code, we encourage you to open an issue.
 1. Read our introductory tutorial at [Learn Storybook](https://storybook.js.org/tutorials/intro-to-storybook/react/en/get-started/).
 2. Learn how to transform your component libraries into design systems in our [Design Systems for Developers](https://storybook.js.org/tutorials/design-systems-for-developers/) tutorial.
 2. Learn the basics of visual testing in our [Visual Testing handbook](https://storybook.js.org/tutorials/visual-testing-handbook/).
-2. See our official documentation at [Storybook](https://storybook.js.org/).
+2. See our official documentation at [Storybook](https://storybook.js.org/).# commentlist
