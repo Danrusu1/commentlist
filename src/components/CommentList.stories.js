@@ -15,7 +15,7 @@ Paginated.args = {
     {
       text: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit.',
       author: {
-        name: 'Luke',
+        name: 'Lukeee',
         avatar: 'luke.jpeg',
       },
     },
