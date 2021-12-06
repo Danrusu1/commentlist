@@ -24,7 +24,7 @@ import PropTypes from 'prop-types';
     rgba(248, 248, 254, 0.95),
     rgba(250, 250, 250, 0.95)
    );
-   border-radius: 48px;
+  //  border-radius: 48px;
  `;
 
  const AvatarDiv = styled.div`
